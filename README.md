@@ -3,7 +3,7 @@
 ## OpenCore 0.9.7
 * removed PlatformInfo
 
-| *Device*       | Model*                         |
+| *Device*       | *Model*                         |
 |----------------|--------------------------------|
 | Motherboard    | GA H370M D3H                   |
 | CPU            | i7-9700                        |
