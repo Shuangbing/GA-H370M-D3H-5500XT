@@ -830,17 +830,17 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02ZCLY3JV3QNV9UE</string>
+			<string></string>
 			<key>ROM</key>
-			<data>tC6Zhijh</data>
+			<data></data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZCLY3JV3Q</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>A38012AB-80E7-4E30-895D-b42e998628e1</string>
+			<string></string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
