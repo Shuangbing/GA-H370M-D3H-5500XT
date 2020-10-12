@@ -1,6 +1,6 @@
 # GA-H370M-D3H-5500XT
 
-## OpenCore 0.6.1
+## OpenCore 0.6.2
 * removed PlatformInfo
 
 | *Device*       | *Model*                         |
